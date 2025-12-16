@@ -1,4 +1,4 @@
-# KarimHaidari2-arch-install-karim-haidari
+# KarimHaidari2-arch-install-karim-haidari-
 
 rch Linux Installation and Configuration
 CYB 3353 – Project 1 (Part A)
